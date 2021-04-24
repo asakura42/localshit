@@ -8,7 +8,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/asakura42/link-preview/url2oembed"
+	"github.com/asakura42/localshit/url2oembed"
 )
 
 type apiWorker struct {
