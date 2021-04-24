@@ -20,8 +20,8 @@ import (
 	// to fetch png info from url
 	_ "image/png"
 
-	"github.com/asakura42/link-preview/htmlinfo"
-	"github.com/asakura42/link-preview/oembed"
+	"github.com/asakura42/localshit/htmlinfo"
+	"github.com/asakura42/localshit/oembed"
 )
 
 // Parser implements an url parsing code
