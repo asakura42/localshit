@@ -12,7 +12,7 @@ import (
 
 	"golang.org/x/net/html/charset"
 
-	"github.com/asakura42/link-preview/oembed"
+	"github.com/asakura42/localshit/oembed"
 	"github.com/dyatlov/go-opengraph/opengraph"
 	"golang.org/x/net/html"
 
