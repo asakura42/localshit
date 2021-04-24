@@ -1,7 +1,7 @@
 /**
 * @author @asakura42
 **/
-package link_preview
+package localshit
 
 import (
 	"fmt"
