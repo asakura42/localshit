@@ -1,9 +1,9 @@
 /**
 * @author @asakura42
 **/
-package link_preview
+package localshit
 
-import "github.com/asakura42/link-preview/oembed"
+import "github.com/asakura42/localshit/oembed"
 
 type cacheGetFunc func(string) *oembed.Info
 type cacheSetFunc func(string, *oembed.Info, int64)
